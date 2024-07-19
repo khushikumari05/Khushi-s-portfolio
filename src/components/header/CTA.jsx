@@ -13,7 +13,7 @@
 // export default CTA
 
 import React from 'react';
-import CV from "../../assets/Khushi's resume.pdf";
+import CV from "../../assets/Khushi'CV.pdf";
 
 const CTA = () => {
   const handleDownloadClick = (event) => {
