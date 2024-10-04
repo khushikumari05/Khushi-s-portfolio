@@ -34,7 +34,7 @@ const Contact = () => {
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+91-8434442887</h5>
+            <h5>+91-</h5>
             <a href=" https://wa.me/918434442887" target="_blank">Send a message</a>
           </article>
         </div>
